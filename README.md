@@ -98,7 +98,8 @@ A realistic synthetic SaaS dataset was generated using Python to simulate one ye
 
 Tracks overall business health with key KPIs, user growth, revenue trends, acquisition channels, and geographic distribution.
 
-<img width="1920" height="1080" alt="engagement" src="https://github.com/user-attachments/assets/64d7e2d0-6394-49a4-8de4-cf51c055a493" />
+<img width="1920" height="1080" alt="executive" src="https://github.com/user-attachments/assets/c60cce13-75ee-4446-a1a9-c9f594e26da6" />
+
 
 
 
@@ -107,7 +108,9 @@ Tracks overall business health with key KPIs, user growth, revenue trends, acqui
 ### 2️⃣ Product Engagement
 
 Analyzes user activity using DAU, WAU, MAU, Stickiness, feature adoption, device usage, and engagement trends.
-<img width="1920" height="1080" alt="engagement" src="https://github.com/user-attachments/assets/75b9426c-cddc-4c25-96f1-9db32dfe2066" />
+
+<img width="1920" height="1080" alt="engagement" src="https://github.com/user-attachments/assets/614e646b-c083-4dca-8097-0c8fb434748b" />
+
 
 
 ---
@@ -115,7 +118,9 @@ Analyzes user activity using DAU, WAU, MAU, Stickiness, feature adoption, device
 ### 3️⃣ Revenue & Retention
 
 Monitors subscription performance, Monthly Recurring Revenue (MRR), ARPU, payment success, subscription status, and customer retention.
-<img width="1920" height="1080" alt="revenue" src="https://github.com/user-attachments/assets/427cbea6-f03a-4cef-9c88-7bdcb550b1e7" />
+
+<img width="1920" height="1080" alt="revenue" src="https://github.com/user-attachments/assets/e54d2034-5c66-4a4a-a2e4-cf1e3047e751" />
+
 
 
 ---
@@ -124,7 +129,8 @@ Monitors subscription performance, Monthly Recurring Revenue (MRR), ARPU, paymen
 
 Evaluates product growth using the conversion funnel, cohort retention analysis, feature adoption by subscription plan, upgrade rate, and A/B testing performance.
 
-<img width="1920" height="1080" alt="experimentation" src="https://github.com/user-attachments/assets/2ba7808e-8fb1-4d00-8843-81909f56d30c" />
+<img width="1920" height="1080" alt="experimentation" src="https://github.com/user-attachments/assets/15332328-ecad-4bc8-9822-1a55fb3030c6" />
+
 
 
 ## 💡 Key Business Insights
