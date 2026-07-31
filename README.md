@@ -98,7 +98,8 @@ A realistic synthetic SaaS dataset was generated using Python to simulate one ye
 
 Tracks overall business health with key KPIs, user growth, revenue trends, acquisition channels, and geographic distribution.
 
-<img width="1920" height="1080" alt="executive" src="https://github.com/user-attachments/assets/25fe119c-53f9-47cc-8eeb-241f5257fcee" />
+<img width="1920" height="1080" alt="engagement" src="https://github.com/user-attachments/assets/64d7e2d0-6394-49a4-8de4-cf51c055a493" />
+
 
 
 ---
